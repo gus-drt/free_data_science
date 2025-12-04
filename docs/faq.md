@@ -114,7 +114,7 @@ Não! A IA está transformando o trabalho, mas cientistas de dados continuarão 
 
 ## 📧 Outras Perguntas
 
-Não encontrou sua resposta? Abra uma [issue](https://github.com/gus-drt/free_data_science/issues) no repositório!
+Não encontrou sua resposta? Abra uma [issue](../../issues) no repositório!
 
 ---
 

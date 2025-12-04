@@ -31,7 +31,7 @@ Ao participar deste projeto, você concorda em manter um ambiente respeitoso e a
 1. **Fork** este repositório
 2. **Clone** seu fork localmente:
    ```bash
-   git clone https://github.com/seu-usuario/free_data_science.git
+   git clone https://github.com/<seu-usuario>/free_data_science.git
    ```
 3. Crie uma **branch** para sua contribuição:
    ```bash
@@ -141,4 +141,4 @@ Agradecemos a todos que contribuem para tornar o aprendizado de Ciência de Dado
 
 ---
 
-Dúvidas? Abra uma [issue](https://github.com/gus-drt/free_data_science/issues) ou entre em contato.
+Dúvidas? Abra uma [issue](../../issues) ou entre em contato.

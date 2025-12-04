@@ -179,7 +179,7 @@ _Se você quiser contribuir com esta lista (por favor, contribua!), envie um pul
 |------------|-----------|
 | [Data Hackers](https://datahackers.com.br/) | Maior comunidade de Data Science do Brasil |
 | [AI Brasil](https://aibrasil.org/) | Comunidade brasileira de IA |
-| [Discord - Data Science Brasil](https://discord.gg/) | Servidor de Discord brasileiro |
+| [Comunidades no Discord](https://discord.com/) | Pesquise por servidores de Data Science Brasil |
 
 ---
 
