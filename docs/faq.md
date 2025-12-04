@@ -118,4 +118,4 @@ Não encontrou sua resposta? Abra uma [issue](../../issues) no repositório!
 
 ---
 
-*FAQ atualizado regularmente. Última atualização: 2024*
+*FAQ atualizado regularmente. Última atualização: 04/12/25*
