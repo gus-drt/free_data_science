@@ -90,6 +90,7 @@ _Se você quiser contribuir com esta lista (por favor, contribua!), envie um pul
 
 | Canal/Recurso | Foco | Link |
 |---------------|------|------|
+| Nick Saraev | IA (Claude Code) | [YouTube](https://youtu.be/QoQBzR1NIqI?si=h4mlwtbRRyUBChEd) |
 | Didática Tech | Data Science e Machine Learning | [YouTube](https://www.youtube.com/@DidaticaTech) |
 | Programação Dinâmica | Python e IA | [YouTube](https://www.youtube.com/@ProgramacaoDinamica) |
 | Mario Filho | Data Science | [YouTube](https://www.youtube.com/@MarioFilhoML) |
