@@ -202,6 +202,10 @@ Variante de Rede Neural Recorrente (RNN) projetada para superar o problema do de
 
 ## M
 
+### Matriz
+Estrutura matemática bidimensional composta por linhas e colunas, cujos elementos são números ou outros valores matemáticos. Em Ciência de Dados e Machine Learning, matrizes são a representação fundamental para dados tabulares, imagens, pesos de redes neurais e transformações lineares. Operações matriciais como multiplicação, transposição e inversão estão na base de algoritmos fundamentais, como regressão linear, PCA e redes neurais profundas. Bibliotecas como NumPy e PyTorch fornecem suporte eficiente e otimizado para operações com matrizes, tornando-as essenciais no processamento de grandes volumes de dados.
+[Saiba mais sobre Matrizes](https://pt.wikipedia.org/wiki/Matriz_(matem%C3%A1tica))
+
 ### Matriz de Confusão
 Tabela que apresenta o desempenho de um modelo de classificação, cruzando os valores reais com as previsões do modelo. As linhas representam as classes reais e as colunas as classes previstas. Os elementos da diagonal principal são as previsões corretas (Verdadeiros Positivos e Verdadeiros Negativos), enquanto os elementos fora da diagonal são os erros (Falsos Positivos e Falsos Negativos). A partir da matriz de confusão, derivam-se métricas como Acurácia, Precisão, Recall e F1-Score, cada uma capturando diferentes aspectos do desempenho do classificador.
 [Saiba mais sobre Matriz de Confusão](https://scikit-learn.org/stable/modules/model_evaluation.html#confusion-matrix)
